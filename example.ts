@@ -22,4 +22,4 @@ fs.writeFileSync("mnemonic.txt", mnemonic);
 console.log("Generated recovery phrase:", mnemonic);
 console.log("Generated seed numbers:", seedNumbers);
 
-//comme
+//comment
