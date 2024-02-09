@@ -1,0 +1,20 @@
+{
+  "name": "v2generate-keypair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^1.5.1",
+    "@solana/web3.js": "^1.90.0",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "esrun": "^3.2.26",
+    "typescript": "^5.3.3"
+  }
+}
